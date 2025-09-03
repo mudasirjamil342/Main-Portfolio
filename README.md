@@ -1,2 +1,2 @@
 # Main-Portfolio
-This is my main port folio of frontend web developer.
+This is my main portfolio of frontend web developer.
